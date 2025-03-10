@@ -1308,9 +1308,9 @@
   integrity sha512-hqwXvY8/YBsT9RwQITG868ZNb1MVFFkF7W1Ecv4P472j/ZWa7EFcgSmxy8PUElNVZfvhdvfv+a8j6NWJqOX5mA==
 
 "@date-io/date-fns@3.x":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@date-io/date-fns/-/date-fns-3.2.0.tgz#7e20464df5da2502d4b3b8c9a2cdb4ee00776012"
-  integrity sha512-qkWB6E8lTwlwWq1xodXsY7On3gUoLsibdRu5cSAL1+oklrMOqpKmTzoZ9UFdvTs4Z0RYAi1D9ZelfqOCjT2quQ==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@date-io/date-fns/-/date-fns-3.2.1.tgz#907aa974c150b3f2d2d79b0f6e18b0fe64c7f051"
+  integrity sha512-CtXgTOAamkImI+CmbWRNdBi4ljj9xm/tdoPa+eeeiygduzubJTsXp18vYz+Vs/9yLho1zUOXlxpsfsF7PsXSWQ==
   dependencies:
     "@date-io/core" "^3.2.0"
 
